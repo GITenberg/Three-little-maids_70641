@@ -1,0 +1,45 @@
+_repo: Three-little-maids_70641
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Johnson, A. J.
+    alias: Johnson, A.J.
+    gutenberg_agent_id: '26498'
+    url: http://www.gutenberg.org/2009/agents/26498
+creator:
+  author:
+    agent_name: Turner, Ethel
+    aliases:
+    - Turner, Ethel Sybil
+    - Curlewis, H. R., Mrs.
+    - Curlewis, Mrs. H. R.
+    birthdate: 1870
+    deathdate: 1958
+    gutenberg_agent_id: '1561'
+    url: http://www.gutenberg.org/2009/agents/1561
+    wikipedia: https://en.wikipedia.org/wiki/Ethel_Turner
+description: ''
+gutenberg_issued: '2023-04-24'
+identifiers:
+  gutenberg: '70641'
+language: en
+pgterms:marc904: http://www.archive.org/details/threelittlemaids00turniala
+pgterms:marc905: 20070926044435turner
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: David Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bWard, Lock & Co., Limited, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Family life -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Australia -- Social life and customs -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Three little maids
+url: http://www.gutenberg.org/ebooks/70641
