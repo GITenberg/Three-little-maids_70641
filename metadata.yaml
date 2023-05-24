@@ -6,6 +6,9 @@ contributor:
     alias: Johnson, A.J.
     gutenberg_agent_id: '26498'
     url: http://www.gutenberg.org/2009/agents/26498
+covers:
+- cover_type: archival
+  image_path: 70641-h/images/cover.jpg
 creator:
   author:
     agent_name: Turner, Ethel
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1561
     wikipedia: https://en.wikipedia.org/wiki/Ethel_Turner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70641#Three-little-maids
 gutenberg_issued: '2023-04-24'
 identifiers:
   gutenberg: '70641'
